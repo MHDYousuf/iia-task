@@ -18,7 +18,7 @@ const columns = [
 		title: 'Name',
 		dataIndex: 'name',
 		render: (name) => `${name.first} ${name.last}`,
-		width: '20%',
+		width: '10%',
 	},
 	{
 		title: 'Email',
@@ -33,7 +33,7 @@ const columns = [
 	{
 		title: 'Home Address',
 		dataIndex: 'address',
-		width: '20%',
+		width: '25%',
 		render: (_, record) =>
 			record.address ? (
 				<>
@@ -51,7 +51,7 @@ const columns = [
 	{
 		title: 'Office Address',
 		dataIndex: 'office',
-		width: '20%',
+		width: '25%',
 		render: (_, record) =>
 			record.office ? (
 				<>
@@ -311,6 +311,8 @@ const Component = () => {
 					}}
 					loading={loading}
 					onChange={handleTableChange}
+					scroll={{ x: true }}
+					sticky
 				/>
 			</Col>
 		</Col>
