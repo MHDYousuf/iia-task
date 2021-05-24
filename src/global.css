@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+.wrapper{
+  min-height: 100vh;
+}
+
 .nav{
   background: transparent;
   padding:1rem;
@@ -23,8 +27,24 @@
 
 .table-container{
   display: flex;
-  margin-top: 5rem;
+  margin: 5rem 0px;
 }
 .t-center{
   justify-content: center;
+}
+.footer{
+  justify-self: flex-end;
+  background: #dfdcdc;
+  min-height: 50px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.footer p{
+  margin: 0;
+}
+.footer p span{
+  font-weight: 500;
 }
