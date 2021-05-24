@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/iia-task/static/css/main.4d66a5fa.chunk.css",
+    "main.js": "/iia-task/static/js/main.2b738ae2.chunk.js",
+    "main.js.map": "/iia-task/static/js/main.2b738ae2.chunk.js.map",
+    "runtime-main.js": "/iia-task/static/js/runtime-main.3c1d526a.js",
+    "runtime-main.js.map": "/iia-task/static/js/runtime-main.3c1d526a.js.map",
+    "static/css/2.00bb4513.chunk.css": "/iia-task/static/css/2.00bb4513.chunk.css",
+    "static/js/2.185b2de7.chunk.js": "/iia-task/static/js/2.185b2de7.chunk.js",
+    "static/js/2.185b2de7.chunk.js.map": "/iia-task/static/js/2.185b2de7.chunk.js.map",
+    "index.html": "/iia-task/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/iia-task/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.4d66a5fa.chunk.css.map": "/iia-task/static/css/main.4d66a5fa.chunk.css.map",
+    "static/js/2.185b2de7.chunk.js.LICENSE.txt": "/iia-task/static/js/2.185b2de7.chunk.js.LICENSE.txt",
+    "static/media/brand.f2b35964.png": "/iia-task/static/media/brand.f2b35964.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1d526a.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.185b2de7.chunk.js",
+    "static/css/main.4d66a5fa.chunk.css",
+    "static/js/main.2b738ae2.chunk.js"
+  ]
+}
